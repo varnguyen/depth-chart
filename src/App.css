@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  background-color: #202124;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container .bid-chart,
+.container .ask-chart {
+  height: 100%;
+  width: 50%;
+}
+
+.custom-tooltip {
+  background-color: #fff;
+  padding: 3px 7px;
+}
