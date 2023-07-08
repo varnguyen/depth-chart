@@ -2,7 +2,7 @@
 
 Build a market depth chart using recharts
 
-![Screenshot 2023-07-05 222615](https://github.com/varnguyen/depth-chart/assets/33864311/6566d9bc-30ed-4576-afe0-d690dc7ed924)
+![Screenshot 2023-07-09 002047](https://github.com/varnguyen/depth-chart/assets/33864311/9f00f362-5904-4aa7-8276-2747a62b1604)
 
 ## Available Scripts
 
